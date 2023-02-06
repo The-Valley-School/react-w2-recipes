@@ -1,4 +1,4 @@
-# WORKSHOP 2: Libro de Recetas Online
+# WORKSHOP 3: Libro de Recetas Online
 
 En este ejercicio vamos a realizar un pequeño libro de recetas online como el que veis en la captura:
 
